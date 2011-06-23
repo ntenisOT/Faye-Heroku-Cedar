@@ -51,7 +51,13 @@ Push files to Heroku:
 	git push heroku master
 	
 
-Go to you provided by Heroku link and check that your application is working!
+Go to you provided by Heroku link and check that your server is up add running!
+
+YOU WILL NEED TO INCLUDE TO YOUR APPLICATION THE FOLLOWING LINKS:
+	
+	http://appname.herokuapp.com/faye
+	
+	http://appname.herokuapp.com/faye.js
 
 References
 ----------
