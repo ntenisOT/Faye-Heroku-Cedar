@@ -14,7 +14,7 @@ eg:
 	
 Clone from GitHub:
 	
-	git clone git://github.com/ntenisOT/Faye-Server-Cedar.git
+	git clone git://github.com/ntenisOT/Faye-Heroku-Cedar.git
 	
 Initializing git and first commit
 ---------------------------------
